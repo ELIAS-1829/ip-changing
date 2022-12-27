@@ -1,7 +1,5 @@
 #!/bin/bash 
 #HERRAMIENTA PARA OBTENER INFO DE  UNA IP PUPLICA 
-mv ip.sh .ip.sh
-mv inportante.sh .inportante.sh
 azul="\033[38;5;31m"
 rojo="\033[38;1;31m"
 verd="\033[38;0;32m"
