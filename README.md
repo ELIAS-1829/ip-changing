@@ -2,7 +2,7 @@
 Esta herramienta sirve para sacar info sobre una dirección ip  publica 
 
 
-<=====Comandos de instalacion======>
+Comandos de instalacion
 
 apt update && apt upgrade
 
